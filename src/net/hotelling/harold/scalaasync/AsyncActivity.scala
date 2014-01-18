@@ -1,4 +1,4 @@
-package com.example.scalaasync
+package net.hotelling.harold.scalaasync
 
 import android.app.Activity
 import android.os.Bundle

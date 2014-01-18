@@ -1,4 +1,4 @@
-package com.example.scalaasync
+package net.hotelling.harold.scalaasync
 
 import android.view.View
 import android.view.View.OnClickListener
